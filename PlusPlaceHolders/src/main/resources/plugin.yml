@@ -1,0 +1,6 @@
+name: PlusPlaceHolders
+version: '${project.version}'
+main: me.skythebuilder.plusplaceholders.PlusPlaceHoldersPlugin
+api-version: '1.20'
+Author: Snowdesert
+Website: https://github.com/Snowdeserr/PlusPlaceHolders

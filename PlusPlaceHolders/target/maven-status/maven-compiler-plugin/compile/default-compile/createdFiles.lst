@@ -1,0 +1,4 @@
+me\skythebuilder\plusplaceholders\PlusPlaceholdersPlugin.class
+me\skythebuilder\plusplaceholders\PlaceHolders\PlusMoneyPlaceholder.class
+me\skythebuilder\plusplaceholders\Hook\PlaceholderAPIHook.class
+me\skythebuilder\plusplaceholders\Hook\EconomyHook.class
